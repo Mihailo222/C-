@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahovacmihailo\\source\\repos\\MikaDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C2AEF9-E871-4314-B442-5A6C00591287}|MikaDotNet\\MikaDotNet.csproj|c:\\users\\mahovacmihailo\\source\\repos\\mikadotnet\\mikadotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C2AEF9-E871-4314-B442-5A6C00591287}|MikaDotNet\\MikaDotNet.csproj|solutionrelative:mikadotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahovacmihailo\\source\\repos\\MikaDotNet\\MikaDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "MikaDotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\mahovacmihailo\\source\\repos\\MikaDotNet\\MikaDotNet\\appsettings.json",
+              "RelativeToolTip": "MikaDotNet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T13:36:18.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
